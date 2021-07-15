@@ -10,7 +10,7 @@ const About = () => {
         allowFullScreen=""
         aria-hidden="false"
         tabIndex="0"
-      >My Location</iframe>
+      >My Location In Indonesia</iframe>
 
       <h4>Phone</h4>
       <p>+62 81394671261</p>

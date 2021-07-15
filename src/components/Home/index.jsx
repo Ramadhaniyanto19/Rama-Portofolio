@@ -1,4 +1,4 @@
-import { Link, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import "./style.css";
 
@@ -18,7 +18,7 @@ const Home = () => {
       <div className="person">
         <img
           src={`${process.env.PUBLIC_URL}/mo-logo.jpeg`}
-          alt="person picture"
+          alt="Photo saya"
         />
       </div>
     </div>

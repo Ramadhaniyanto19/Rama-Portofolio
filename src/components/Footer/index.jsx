@@ -6,6 +6,7 @@ const Footer = () => {
       <a
         href="/"
         target="_blank"
+        rel = "noreferrer"
       >
         <img
           src="https://github.com/DwinaTech/public-images/blob/main/youtube-icon.png?raw=true"
